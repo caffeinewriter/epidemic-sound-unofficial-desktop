@@ -12,9 +12,9 @@ jobs:
     strategy:
       matrix:
         include:
-          - os: ubuntu-latest
-            artifact_name: epidemic-desktop
-            asset_name: epidemic-desktop-linux-amd64
+          # - os: ubuntu-latest
+          #   artifact_name: epidemic-desktop
+          #   asset_name: epidemic-desktop-linux-amd64
           - os: windows-latest
             artifact_name: epidemic-desktop.exe
             asset_name: epidemic-desktop-windows-amd64
