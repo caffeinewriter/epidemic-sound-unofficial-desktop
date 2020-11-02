@@ -41,7 +41,7 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "ed67cbde08356238e75fc4656be4749481eeffb09e19f320a25237d5221c985d"
 
 [[package]]
-name = "epidemic-webview"
+name = "epidemic-desktop"
 version = "0.1.0"
 dependencies = [
  "web-view",

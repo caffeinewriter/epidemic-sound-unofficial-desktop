@@ -1,5 +1,5 @@
 [package]
-name = "epidemic-webview"
+name = "epidemic-desktop"
 version = "0.1.0"
 authors = ["Brandon Anzaldi <brandon@brandonanzaldi.com>"]
 edition = "2018"
